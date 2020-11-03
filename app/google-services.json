@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14752394082",
+    "firebase_url": "https://my-finances-518fa.firebaseio.com",
+    "project_id": "my-finances-518fa",
+    "storage_bucket": "my-finances-518fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14752394082:android:2fdafed3ca7143e80f5a3b",
+        "android_client_info": {
+          "package_name": "com.lucasrodrigues.myfinances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14752394082-r1oci36kjij5sk2r5266cclt6d7l2nl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpfcG6a65ZbAYDFMWJbRLJZ7My_JHTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14752394082-r1oci36kjij5sk2r5266cclt6d7l2nl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
